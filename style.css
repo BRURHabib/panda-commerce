@@ -20,3 +20,22 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.watch, .bag, .shoes{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.watch{
+    background-color: orange;
+}
+.bag{
+    background-color: orchid;
+}
+.shoes{
+    background-color: blue;
+}
+.categories h1{
+    color: #ffff;
+}
+.categories img{
+    width: 100px;
+}
