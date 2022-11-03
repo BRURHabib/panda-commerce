@@ -7,7 +7,7 @@
     border-radius: 10px;
 }
 .carousel-item{
-    padding: 20px 40px;
+    padding: 20px 30px;
 }
 .price{
     color: #FF136F;
@@ -20,17 +20,17 @@
     padding: 9px 25px;
     cursor: pointer;
 }
-.watch, .bag, .shoes{
+.cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 20px;
 }
-.watch{
+.cat1{
     background-color: orange;
 }
-.bag{
+.cat2{
     background-color: orchid;
 }
-.shoes{
+.cat3{
     background-color: blue;
 }
 .categories h1{
@@ -38,4 +38,19 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Subscribe{
+    height: 300px;
+}
+#Subscribe h6{
+    color: gray;
 }
